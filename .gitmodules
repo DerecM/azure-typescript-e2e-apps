@@ -1,0 +1,3 @@
+[submodule "azure-typescript-e2e-apps"]
+	path = azure-typescript-e2e-apps
+	url = https://github.com/DerecM/azure-typescript-e2e-apps
